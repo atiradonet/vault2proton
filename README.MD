@@ -1,8 +1,5 @@
 # vault2proton
 
-[![PyPI - Version](https://img.shields.io/pypi/v/vault2proton.svg)](https://pypi.org/project/vault2proton)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/vault2proton.svg)](https://pypi.org/project/vault2proton)
-
 ---
 
 ## Table of Contents
