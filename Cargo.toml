@@ -2,5 +2,10 @@
 name = "vault2proton"
 version = "0.1.0"
 edition = "2024"
+authors = ["atirado.net"]
+license = "MIT"
+description = "Convert a F-Secure Password Vault export file to Proton Pass' CSV format"
+repository = "https://github.com/atiradonet/vault2proton"
+readme = "README.md"
 
 [dependencies]
